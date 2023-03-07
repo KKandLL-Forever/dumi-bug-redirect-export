@@ -1,0 +1,17 @@
+{
+  "name": "@root/services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "axios": "^1.2.4",
+    "react-router-dom": "^6.7.0"
+  }
+}
